@@ -6,7 +6,7 @@
 <p>
 Hello, I'm Lavínia, but you can call me Ninah. 
 
-I'm a full-stack Developer and UI Design from Brazil <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />, **24 years old** and **5 years of coding**. 
+I'm a full-stack Developer and UI Design from Brazil, **24 years old** and **5 years of coding**. 
 
 <br/>
 
