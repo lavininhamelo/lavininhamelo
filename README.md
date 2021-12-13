@@ -12,7 +12,7 @@ I'm a full-stack Developer and UI Design from Brazil, **24 years old** and **5 y
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍💻 I'm developer at Multiplica.me;
+- 👩🏻‍💻 I'm developer at Fuerza Studio;
 
 - :muscle: I’m currently working on something cool :wink:;
 
@@ -27,15 +27,15 @@ I'm a full-stack Developer and UI Design from Brazil, **24 years old** and **5 y
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/laviniamelo/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://img.icons8.com/color/48/000000/linkedin.png" /></code>
 </a>
 
 <a href="mailto:lavininhamelo@hotmail.com">
-  <code><img alt="My email" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My email" width="32" src="https://img.icons8.com/color/48/000000/new-post.png" /></code>
 </a>
 
 <a href="https://dribbble.com/laviniamelo">
-  <code><img alt="My Dribbble" width="32" src="https://www.flaticon.com/svg/static/icons/svg/733/733544.svg" /></code>
+  <code><img alt="My Dribbble" width="32" src="https://img.icons8.com/color/48/000000/dribbble.png" /></code>
 </a>
 
 
