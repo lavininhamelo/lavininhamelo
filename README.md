@@ -35,7 +35,7 @@ I'm a full-stack Developer and UI Design from Brazil, **24 years old** and **5 y
 </a>
 
 <a href="https://dribbble.com/laviniamelo">
-  <code><img alt="My Dribbble" width="32" src="https://img.icons8.com/color/48/000000/dribbble.png" /></code>
+  <code><img alt="My Dribbble" width="32" src="https://img.icons8.com/color-glass/50/000000/dribbble.png" /></code>
 </a>
 
 
