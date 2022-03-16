@@ -12,7 +12,7 @@ I'm a full-stack Developer and UI Design from Brazil, **24 years old** and **5 y
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍💻 I'm developer at Fuerza Studio;
+- 👩🏻‍💻 I'm developer at Dibbs;
 
 - :muscle: I’m currently working on something cool :wink:;
 
