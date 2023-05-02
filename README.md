@@ -6,7 +6,7 @@
 <p>
 Hello, I'm Lavínia, but you can call me Ninah. 
 
-I'm a full-stack Developer and UI Design from Brazil, **24 years old**.
+I'm a full-stack Developer and UI Design from Brazil, living in Portugal **25 years old**.
 
 <br/>
 
@@ -16,7 +16,7 @@ I'm a full-stack Developer and UI Design from Brazil, **24 years old**.
 
 - :muscle: I’m currently working on something cool :wink:;
 
-- 🌱 I’m currently learning Clean Code, Design Patterns and Microservices; 
+- 🌱 I’m currently improving my skills with Web3 and Microservices.
 
 - 💬 Ask me about anything, I am happy to help;
 
@@ -81,18 +81,6 @@ I'm a full-stack Developer and UI Design from Brazil, **24 years old**.
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/figma-1693589-1442630.png" alt="Figma"/></code>
 <code><img height="32" src="https://miro.medium.com/max/400/0*bcE2zNU6QyrVr2kd.png" alt="Azure DevOps"/></code>
 
-
-<br/>
-
-
-
-## Coding Activity
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavininhamelo&show_icons=true&theme=dracula" alt="lavininhamelo's github stats" />
-</p>
 
 <br/>
 
