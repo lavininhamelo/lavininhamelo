@@ -6,13 +6,13 @@
 <p>
 Hello, I'm Lavínia, but you can call me Ninah. 
 
-I'm a full-stack Developer and UI Design from Brazil, living in Portugal **25 years old**.
+I'm a full-stack Developer and UI Design from Brazil, living in Portugal **27 years old**.
 
 <br/>
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍💻 I'm developer at Dibbs;
+- 👩🏻‍💻 I'm developer at Miniclip;
 
 - :muscle: I’m currently working on something cool :wink:;
 
