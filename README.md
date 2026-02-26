@@ -15,7 +15,7 @@ I'm a full-stack Developer and UI Design from Brazil, living in Portugal **27 ye
 
 - 👩🏻‍💻 I'm Software Engineer at Miniclip.
 
-- :muscle: I’m currently working on something cool  🎱 :wink:;
+- :muscle: I’m currently working on something cool  🎱;
 
 - 🌱 Building distributed systems using Go, Vue and AWS and constantly refining architecture, scalability and system design skills.
 
