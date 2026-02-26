@@ -8,19 +8,20 @@ Hello, I'm Lavínia, but you can call me Ninah.
 
 I'm a full-stack Developer and UI Design from Brazil, living in Portugal **27 years old**.
 
+
 <br/>
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍💻 I'm developer at Miniclip;
+- 👩🏻‍💻 I'm Software Engineer at Miniclip.
 
-- :muscle: I’m currently working on something cool :wink:;
+- :muscle: I’m currently working on something cool  🎱 :wink:;
 
-- 🌱 I’m currently improving my skills with Web3 and Microservices.
+- 🌱 Building distributed systems using Go, Vue and AWS and constantly refining architecture, scalability and system design skills.
 
 - 💬 Ask me about anything, I am happy to help;
 
-- :sparkling_heart: I'm crazy about beautiful interfaces and Mern Stack;
+- :sparkling_heart: Crazy about clean UI and well-architected systems.
 
 - 📕 I'm A book lover and an aspiring musician.
 
@@ -30,7 +31,7 @@ I'm a full-stack Developer and UI Design from Brazil, living in Portugal **27 ye
   <code><img alt="My linkedin" width="28" src="https://img.icons8.com/color/48/000000/linkedin.png" /></code>
 </a>
 
-<a href="mailto:lavininhamelo@hotmail.com">
+<a href="mailto:laviniascmelo@gmail.com">
   <code><img alt="My email" width="32" src="https://img.icons8.com/color/48/000000/new-post.png" /></code>
 </a>
 
@@ -46,8 +47,10 @@ I'm a full-stack Developer and UI Design from Brazil, living in Portugal **27 ye
 
 **Application and Data**
 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="30" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"/></code>
